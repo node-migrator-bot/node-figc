@@ -1,4 +1,5 @@
-var config = require('../../')(__dirname + '/config.json');
+var figc = require('figc');
+var config = figc(__dirname + '/server.json');
 
 var http = require('http');
 
