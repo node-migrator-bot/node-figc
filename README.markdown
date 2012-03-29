@@ -3,6 +3,8 @@ figc
 
 Merge config files with command-line arguments.
 
+[![build status](https://secure.travis-ci.org/substack/node-figc.png)](http://travis-ci.org/substack/node-figc)
+
 examples
 ========
 
