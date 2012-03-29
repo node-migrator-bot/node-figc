@@ -1,0 +1,5 @@
+{
+    "beep" : "boop",
+    "foo" : { "bar" : { "baz" : "quux" } },
+    "xs" : [ 1, 2, 3 ]
+}
